@@ -1,7 +1,8 @@
 # Hi 👋, I'm Bowen 😁
-## 💻 About Me
-* I'm a Malaysian currently studying Computer Science at Dongseo University in Busan, South Korea.
-* Test
+## 📖 About Me
+* Software Developer from Malaysia
+* Currently studying a Degree in Computer Science at Dongseo University in Busan
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,wasm&theme=dark)](https://skillicons.dev)
+## 🛠️ Tech Stack
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp&theme=dark)](https://skillicons.dev)
