@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 # Hi 👋, I'm Bowen 😁
 ## 💻 About Me
 * I'm a Malaysian currently studying Computer Science at Dongseo University in Busan, South Korea.
