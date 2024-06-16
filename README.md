@@ -4,4 +4,4 @@
 * Currently studying a Degree in Computer Science at Dongseo University in Busan
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,expressjs,mongodb,mysql,html,css,cpp,c&theme=dark)](https://skillicons.dev)
