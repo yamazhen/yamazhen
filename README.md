@@ -7,4 +7,4 @@
 [My Portfolio](https://www.zhen.software)
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=neovim,npm,java,js,ts,nodejs,expressjs,mysql,python,mongodb,html,css,cpp,c,react,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,npm,java,js,ts,nodejs,expressjs,mysql,python,mongodb,html,css,cpp,c,react,spring,sqlite,electron&theme=dark)](https://skillicons.dev)
