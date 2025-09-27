@@ -2,8 +2,6 @@
 
 # Hi, I'm Bowen 💜
 
-*Backend Developer crafting digital experiences from Malaysia*
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9146FF?style=flat-square&logoColor=white)](https://www.zhen.software)
 
 </div>
