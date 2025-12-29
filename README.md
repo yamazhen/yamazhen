@@ -46,11 +46,5 @@ const developer = {
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yamazhen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9146FF&icon_color=9146FF&text_color=c9d1d9" height="160">
-
-</div>
-
-<div align="center">
 <sub>💜 Open to collaborating on interesting projects</sub>
 </div>
