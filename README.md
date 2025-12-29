@@ -43,8 +43,6 @@ const developer = {
 
 </div>
 
----
-
 <div align="center">
 <sub>💜 Open to collaborating on interesting projects</sub>
 </div>
